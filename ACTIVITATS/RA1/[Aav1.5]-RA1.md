@@ -1,14 +1,31 @@
 # Activitat 1.5 — Documentació d'operacions i incidències
 
-## Objectiu
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Documentar les operacions realitzades i les incidències produïdes durant el procés de verificació de l'activitat 1.4.
+RA1: Identifica sistemes de planificació de recursos empresarials i de gestió de relacions amb clients (ERP-CRM) reconeixent-ne les característiques i verificant la configuració del sistema informàtic. 
 
-## Avaluació
+## RECURSOS
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+ - Teoria RA1
 
-## Enunciat
+## CONDICIONS DE TREBALL
+
+ - Treball individual
+ - Entregar al Moodle l'enllaç del github
+ - Github:
+   - Continuar amb el repositori de l'activitat **Aav1.4**.
+   - Treballar a la branca **ra1**.
+   - Al acabar l'activitat, fusionar la branca **ra1** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
 
 Reprenent les comprovacions fetes a l'**activitat 1.4**:
 

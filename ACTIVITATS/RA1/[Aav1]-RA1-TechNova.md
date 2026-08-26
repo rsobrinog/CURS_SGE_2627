@@ -1,17 +1,28 @@
-**Descripció completa de TechNova S.L.**
+# Activitat 1 - Descripció completa de TechNova S.L.
 
-## OBJECTIU
 
-Analitzar la situació actual de TechNova S.L. i identificar les necessitats per a la implantació d'un ERP-CRM.
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
+
+RA1: Identifica sistemes de planificació de recursos empresarials i de gestió de relacions amb clients (ERP-CRM) reconeixent-ne les característiques i verificant la configuració del sistema informàtic. 
+
+## RECURSOS
+
+ - Teoria RA1.
+
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Continuar amb el repositori de l'activitat **Aav1.4**.
+   - Treballar a la branca **ra1**.
+   - Al acabar l'activitat, fusionar la branca **ra1** a la branca **main** del github.    
 
 ## AVALUACIÓ
-Aquesta activitat s'avalua amb nota sobre 100.
 
-## CONDICIONS ENTREGA
-
-S'entrega l'enllaç del repositori de Github amb el document en format Markdown (.md) amb les respostes a totes les preguntes plantejades.
-
-Qualsevol entrega fora de la data indicada al moodle, compatarà com a no entregat. Per tant es qualificarà amb un 0.
+ - Activitat avaluable amb nota de 0 a 100.
+ - Treballar a la branca **ra1**.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
 
 ## ENUNCIAT
 

@@ -1,14 +1,31 @@
 # Activitat 1.3 — Sistema operatiu i SGBD adequats per a un ERP-CRM
 
-## Objectiu
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Identificar el sistema operatiu i el sistema gestor de bases de dades (SGBD) adequats per a diferents sistemes ERP-CRM.
+RA1: Identifica sistemes de planificació de recursos empresarials i de gestió de relacions amb clients (ERP-CRM) reconeixent-ne les característiques i verificant la configuració del sistema informàtic. 
 
-## Avaluació
+## RECURSOS
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+ - Teoria RA1
 
-## Enunciat
+## CONDICIONS DE TREBALL
+
+ - Treball individual
+ - Entregar al Moodle l'enllaç del github
+ - Github:
+   - Continuar amb el repositori de l'activitat **Aav1.2**.
+   - Treballar a la branca **ra1**.
+   - Al acabar l'activitat, fusionar la branca **ra1** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
 
 1. Per als següents sistemes ERP-CRM, ompliu una taula amb el **sistema operatiu compatible** i el **SGBD compatible** de cadascun (busqueu la informació a la documentació oficial de cada fabricant):
 

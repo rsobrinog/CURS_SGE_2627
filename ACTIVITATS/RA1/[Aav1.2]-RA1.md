@@ -1,14 +1,31 @@
 # Activitat 1.2 — Estudi comparatiu de sistemes ERP-CRM del mercat
 
-## Objectiu
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Reconèixer sistemes ERP-CRM reals del mercat, identificar-ne el tipus de llicència i comparar-los per característiques.
+RA1: Identifica sistemes de planificació de recursos empresarials i de gestió de relacions amb clients (ERP-CRM) reconeixent-ne les característiques i verificant la configuració del sistema informàtic. 
 
-## Avaluació
+## RECURSOS
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+ - Teoria RA1
 
-## Enunciat
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Crear repositori de nom **sge_cognom**.
+   - Crear una branca (al terminal) de nom **ra1** i ubicar-se a la branca (**git checkout ra1**)
+   - Al acabar l'activitat, fusionar la branca **ra1** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
 
 1. Escolliu **4 sistemes ERP-CRM reals** del mercat. Com a mínim un ha de ser de **codi obert** i un altre de **propietari/SaaS**.
 

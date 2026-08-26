@@ -1,14 +1,31 @@
 # Activitat 1.4 — Verificació dels requisits previs a la instal·lació
 
-## Objectiu
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Verificar que el sistema operatiu i el gestor de dades d'un equip compleixen els requisits necessaris abans d'instal·lar un ERP-CRM (Odoo).
+RA1: Identifica sistemes de planificació de recursos empresarials i de gestió de relacions amb clients (ERP-CRM) reconeixent-ne les característiques i verificant la configuració del sistema informàtic. 
 
-## Avaluació
+## RECURSOS
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+ - Teoria RA1
 
-## Enunciat
+## CONDICIONS DE TREBALL
+
+ - Treball individual
+ - Entregar al Moodle l'enllaç del github
+ - Github:
+   - Continuar amb el repositori de l'activitat **Aav1.3**.
+   - Treballar a la branca **ra1**.
+   - Al acabar l'activitat, fusionar la branca **ra1** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
 
 Al vostre ordinador (o a una màquina virtual / contenidor que tingueu preparat), comproveu i anoteu la informació següent:
 
