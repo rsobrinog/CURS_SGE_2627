@@ -62,7 +62,16 @@ Aquesta classificació és important per accedir a ajudes, complir obligacions l
 
 # **Models de negoci**
 
-**![][image1]**
+|Model|Significat|Relació|Exemple típic|
+|:-----|:-----|:-----|:-----|
+|B2B (Business-to-Business)|Transaccions entre empreses|Empresa → Empresa|SAAP venent software a altres empreses|
+|B2C (Business-to-Consumer)|Transaccions amb particulars|Empresa → particular|Amazon, Zara venent producte a consumidors|
+|B2G (Business-to-Government)|Contractes amb administracions|Empresa → Administracions públiques|Indra venent solucions tecnològiques a l'estat|
+|C2C (Consumer-to-Consumer)|Transaccions entre particulars|Particular → Particular|Wallapop, eBay|
+|C2B (Consumer to Business)| Creació de valor, producte o servei per les empreses |Persona → Empresa|Influencers oferint contingut a marques|
+|G2C (Government to Consumer)| Relació i comunicació entre ciutadans i administració |Govern → Ciutadà|Agèncie tributaria oferint servei online|
+|G2B (Government to Bussines)| Servei i transaccions digitals entre el govern i les empreses |Govern → Empresa|Subvencions o licitacions públiques|
+
 
 # **Què és un software empresarial?**
 
@@ -121,13 +130,13 @@ Els seus inconvenients són:
 
 # **ERP (Enterprise Resource Planning)**
 
-![][image2]
+<img style="border-radius: 5px;" src="../../img/RA1/erp.png" width="700"/><br>
 
 Els sistemes ERP integren totes les dades i processos de l’empresa en una única plataforma.
 
 Un ERP pot ser integrat tant en local o en servidor. 
 
-![][image3]
+<img style="border-radius: 5px;" src="../../img/RA1/erp_sol.png" width="600"/><br>
 
 Aporten funcionalitats a les empreses, amb un sistema d'emmagatzemament únic.
 
@@ -137,7 +146,8 @@ Els ERP són sistemes d'informació que integren i manipulen les activitats d'un
 
 Està compost de diferents mòduls (vendes, producció, logística, comptabilitat, inventaris, comandes, nòmines, etc.) que comparteixen un mateix gestor de base de dades.
 
-![][image4]
+<img style="border-radius: 5px;" src="../../img/RA1/erp_moduls.png" width="500"/><br>
+
 
 # **Implantació d’un ERP**
 
@@ -172,7 +182,7 @@ Mòduls més comuns d'un ERP:
 * Recursos Humans  
 * TPV (Terminal punto de venta)  
 * CRM (Customer Relationship Management. Gestió de la relació amb el client)  
-* MRP (Material Resource Planning relaciona Compres, Vendes, Stock, Producció..  
+* MRP (Material Resource Planning relaciona Compres, Vendes, Stock, Producció..)  
 * Tasques de reporting i intel·ligència del negoci BI  
 * Anàlisi de competidors
 
@@ -253,7 +263,7 @@ Un ERP horitzontal és **genèric i modular**, pensat per adaptar-se a qualsevol
 
 Les aplicacions ERP deleguen la gestió de les dades a un GSBD (sistema de gestió de bases de dades)
 
-**![][image5]**
+<img style="border-radius: 5px;" src="../../img/RA1/erp_arq.png" width="500"/><br>
 
 ## **Arquitectura de Dues Capes (Two-Tier)**
 
@@ -274,7 +284,8 @@ Les aplicacions ERP deleguen la gestió de les dades a un GSBD (sistema de gesti
 
 Un ERP instal·lat en els ordinadors dels usuaris que accedeixi directament a una base de dades central per consultar comandes o gestionar inventari.
 
-**![][image6]**
+<img style="border-radius: 5px;" src="../../img/RA1/erp_ex.png" width="600"/><br>
+
 
 ## **Arquitectura de Tres Capes (Three-Tier)**
 
@@ -296,9 +307,8 @@ Divideix el sistema en tres nivells independents, millorant la modularitat, la s
 
 Un ERP accessible via navegador que es connecta a un servidor d’aplicacions (amb la lògica del sistema), el qual consulta la base de dades en un tercer servidor.
 
-**![][image7]**
+<img style="border-radius: 5px;" src="../../img/RA1/erp_ex2.png" width="500"/><br>
 
-# 
 
 # **Escalibilitat**
 
@@ -346,7 +356,7 @@ Afegir més servidors per repartir la càrrega:
 * Quan s’arriba al límit, es migra a escalat horitzontal per créixer de manera sostenible.  
 * En entorns empresarials moderns, l’escalat horitzontal és l’estàndard, especialment al núvol (AWS, Azure, etc.).
 
-![][image8]
+<img style="border-radius: 5px;" src="../../img/RA1/erp_escal.png" width="200"/><br>
 
 ## **Exemple d’escalat d’un ERP de 3 capes**
 
@@ -394,7 +404,8 @@ Tradicionalment, les aplicacions ERP/CRM/BI es compraven llicències per utilitz
 
 En aquests moments s’imposen els models cloud amb diversos models de desplegament/monetització (IaaS, PaaS i SaaS) que conviuen amb el model tradicional on-premise.
 
-![][image9]
+<img style="border-radius: 5px;" src="../../img/RA1/erp_models_desplegament.png" width="700"/><br>
+
 
 ## **IaaS** 
 
@@ -448,7 +459,8 @@ En un breu espai de temps, el model SaaS substituirà completament el tradiciona
 
 Els 3 serveis (SaaS, PaaS i IaaS) contenen els mateixos mòduls perquè tot funcioni, però en funció del que servei que es contracte el client té més o menys control.
 
-![][image10]
+<img style="border-radius: 5px;" src="../../img/RA1/erp_serveis.png" width="600"/><br>
+
 
 ## **Exemple metafòric**
 
