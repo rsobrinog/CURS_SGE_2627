@@ -21,6 +21,7 @@ RA1: Identifica sistemes de planificació de recursos empresarials i de gestió 
 ## AVALUACIÓ
 
  - Activitat avaluable amb nota de 0 a 100.
+ - Entregar l'activitat a la data indicada.
  - Treballar a la branca **ra1**.
  - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
 

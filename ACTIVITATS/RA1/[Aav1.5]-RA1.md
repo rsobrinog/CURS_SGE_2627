@@ -22,6 +22,7 @@ RA1: Identifica sistemes de planificació de recursos empresarials i de gestió 
  - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
  - Condicions per a **Apte**:
    - 100% de l'activitat demanada.
+   - Entregar l'activitat a la data indicada.
    - Treballar amb branca i l'ús de commits.
  - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
 
