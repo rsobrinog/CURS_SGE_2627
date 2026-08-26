@@ -1,14 +1,32 @@
 # Activitat 2.8 — Verificació del funcionament i documentació d'incidències
 
-## Objectiu
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Verificar de forma sistemàtica el funcionament de les instal·lacions/configuracions fetes a les activitats anteriors del RA2, i documentar operacions i incidències.
+RA2: Implanta sistemes ERP-CRM interpretant la documentació tècnica i identificant les diferents opcions i mòduls.
 
-## Avaluació
+## RECURSOS
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+ - Teoria RA2
 
-## Enunciat
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Treballar en el mateix repositori de la **RA1**.
+   - Crear una branca (al terminal) de nom **ra2** i ubicar-se a la branca (**git checkout ra2**)
+   - Al acabar l'activitat, fusionar la branca **ra2** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Entregar l'activitat a la data indicada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
 
 ### 1. Pla de proves
 
@@ -40,7 +58,3 @@ Documenteu **una incidència real** que us hagi sortit en qualsevol de les activ
 * **Missatge d'error / log:**
 * **Causa detectada:**
 * **Solució aplicada:**
-
-## Com entregar-ho
-
-Un document amb les 4 fitxes de prova, l'informe d'operacions i la fitxa d'incidència.

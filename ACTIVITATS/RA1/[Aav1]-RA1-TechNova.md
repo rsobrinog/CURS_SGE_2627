@@ -15,7 +15,7 @@ RA1: Identifica sistemes de planificació de recursos empresarials i de gestió 
  - Entregar al Moodle l'enllaç del github.
  - Github:
    - Continuar amb el repositori de l'activitat **Aav1.4**.
-   - Treballar a la branca **ra1**.
+   - Crear una branca (al terminal) de nom **ra1** i ubicar-se a la branca (**git checkout ra1**)
    - Al acabar l'activitat, fusionar la branca **ra1** a la branca **main** del github.    
 
 ## AVALUACIÓ

@@ -1,14 +1,32 @@
 # Activitat 2.5 — Actualització del sistema ERP-CRM
 
-## Objectiu
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Practicar el procés d'actualització de mòduls d'Odoo, seguint les bones pràctiques (backup previ, entorn de proves).
+RA2: Implanta sistemes ERP-CRM interpretant la documentació tècnica i identificant les diferents opcions i mòduls.
 
-## Avaluació
+## RECURSOS
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+ - Teoria RA2
 
-## Enunciat
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Treballar en el mateix repositori de la **RA1**.
+   - Crear una branca (al terminal) de nom **ra2** i ubicar-se a la branca (**git checkout ra2**)
+   - Al acabar l'activitat, fusionar la branca **ra2** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Entregar l'activitat a la data indicada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
 
 Utilitzeu una de les instal·lacions d'Odoo que ja teniu (per exemple, la de l'activitat 2.4).
 
@@ -33,7 +51,3 @@ Responeu per escrit (5-6 línies):
 
 * Quina diferència hi ha entre **actualitzar un mòdul** i **actualitzar la versió d'Odoo** (per exemple, de la versió 17 a la 18)?
 * Quins riscos té actualitzar la versió major d'Odoo, i com es podrien mitigar?
-
-## Com entregar-ho
-
-Captures del backup, de l'actualització del mòdul (abans/després del canvi) i de la instal·lació del mòdul nou, més la resposta escrita de l'apartat 4.

@@ -1,14 +1,32 @@
 # Activitat 2.7 — Entorns de desenvolupament, proves i explotació
 
-## Objectiu
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Practicar la separació d'entorns (desenvolupament, preproducció/proves, producció) en una instal·lació d'Odoo, tal com es descriu a la teoria del RA2.
+RA2: Implanta sistemes ERP-CRM interpretant la documentació tècnica i identificant les diferents opcions i mòduls.
 
-## Avaluació
+## RECURSOS
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+ - Teoria RA2
 
-## Enunciat
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Treballar en el mateix repositori de la **RA1**.
+   - Crear una branca (al terminal) de nom **ra2** i ubicar-se a la branca (**git checkout ra2**)
+   - Al acabar l'activitat, fusionar la branca **ra2** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Entregar l'activitat a la data indicada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
 
 Partint d'una de les vostres bases de dades d'Odoo ja creades (amb dades):
 
@@ -32,7 +50,3 @@ Partint d'una de les vostres bases de dades d'Odoo ja creades (amb dades):
 ### 4. Reflexió
 
 Responeu per escrit (4-5 línies): quins avantatges té aquesta manera de treballar (DEV → PRE → PROD) enfront de fer els canvis directament a la base de dades de producció? Poseu un exemple concret de problema que aquesta pràctica evitaria.
-
-## Com entregar-ho
-
-Captura del Database Manager amb les tres bases de dades creades, captures del canvi provat a cada entorn, i la reflexió de l'apartat 4.

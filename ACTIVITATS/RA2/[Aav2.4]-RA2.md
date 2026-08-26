@@ -1,14 +1,32 @@
 # Activitat 2.4 — Procés d'instal·lació documentat pas a pas
 
-## Objectiu
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Instal·lar un ERP-CRM (Odoo) des de zero, documentant cada pas del procés d'instal·lació.
+RA2: Implanta sistemes ERP-CRM interpretant la documentació tècnica i identificant les diferents opcions i mòduls.
 
-## Avaluació
+## RECURSOS
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+ - Teoria RA2
 
-## Enunciat
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Treballar en el mateix repositori de la **RA1**.
+   - Crear una branca (al terminal) de nom **ra2** i ubicar-se a la branca (**git checkout ra2**)
+   - Al acabar l'activitat, fusionar la branca **ra2** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Entregar l'activitat a la data indicada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
 
 Munteu una **instal·lació nova** d'Odoo (una carpeta i un `docker-compose.yml` diferents dels que ja teniu, perquè no interfereixi amb les vostres bases de dades actuals).
 
@@ -28,7 +46,3 @@ Els passos mínims a documentar són:
 5. Primer accés des del navegador i creació de la base de dades de l'empresa (Master Password i contrasenya de l'usuari `admin`).
 6. Instal·lació d'un primer mòdul (p. ex. Contactes).
 7. Comprovació que tot funciona: crear un registre de prova (un contacte).
-
-## Com entregar-ho
-
-Un document amb les 7 fitxes (o més, si voleu detallar-ho més) completades amb les captures corresponents.

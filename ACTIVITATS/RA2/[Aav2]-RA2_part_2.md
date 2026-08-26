@@ -1,6 +1,33 @@
-# **Activitat 2.2 \- Implantació d’Odoo a Technova**
+# **Activitat 2.2 - Implantació d’Odoo a Technova**
 
-# **1\. Context**
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
+
+RA2: Implanta sistemes ERP-CRM interpretant la documentació tècnica i identificant les diferents opcions i mòduls.
+
+## RECURSOS
+
+ - Teoria RA2
+
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Treballar en el mateix repositori de la **RA1**.
+   - Treballar en la branca **ra2**.
+   - Al acabar l'activitat, fusionar la branca **ra2** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb nota de 0 a 100.
+ - Entregar l'activitat a la data indicada.
+ - Treballar a la branca **ra2**.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
+
+
+# **1. Context**
 
 Treballareu amb **TechNova Solutions**, una empresa de Barcelona dedicada al desenvolupament de software i serveis IT. L’empresa ja està en funcionament i vol començar a utilitzar Odoo per gestionar les seves operacions internes: vendes, compres, projectes i relació amb clients i proveïdors.
 
@@ -8,7 +35,7 @@ A continuació tens tota la informació corporativa necessària per treballar. A
 
 # 
 
-# **2\. Informació de l’empresa**
+# **2. Informació de l’empresa**
 
 ## **2.1 Dades generals**
 
@@ -51,7 +78,7 @@ A continuació tens tota la informació corporativa necessària per treballar. A
 | Eva Soler | Màrqueting digital |
 | Pau Ferrer | Comercial júnior |
 
-# **3\. Tasques a realitzar**
+# **3. Tasques a realitzar**
 
 A partir de la informació anterior, configura Odoo amb una nova BBDD perquè TechNova Solutions pugui operar correctament. Hauràs de decidir:
 

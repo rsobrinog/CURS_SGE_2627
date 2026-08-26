@@ -1,14 +1,32 @@
 # Activitat 2.3 — Tipus d'instal·lació d'un ERP-CRM
 
-## Objectiu
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Conèixer i comparar els tipus d'instal·lació d'un sistema ERP-CRM (Monolloc, Client-servidor, Al núvol) i identificar quin tipus correspon a la vostra pròpia instal·lació.
+RA2: Implanta sistemes ERP-CRM interpretant la documentació tècnica i identificant les diferents opcions i mòduls.
 
-## Avaluació
+## RECURSOS
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+ - Teoria RA2
 
-## Enunciat
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Treballar en el mateix repositori de la **RA1**.
+   - Treballar en la branca **ra2**.
+   - Al acabar l'activitat, fusionar la branca **ra2** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Entregar l'activitat a la data indicada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
 
 ### 1. Comparativa teòrica
 
@@ -34,7 +52,3 @@ Suposeu que un company vostre, a la mateixa xarxa local, vol accedir també al v
 1. Seguiu els passos ja vistos a la teoria (RA2) per **compartir l'accés a l'Odoo a través de la xarxa local** (regles de firewall, IP i port).
 2. Comproveu, des d'un altre dispositiu de la mateixa xarxa (mòbil, un altre PC), que podeu accedir-hi.
 3. Expliqueu per què, un cop fet això, la vostra instal·lació ha passat de comportar-se com un **monolloc** a comportar-se com un **client-servidor**.
-
-## Com entregar-ho
-
-La taula comparativa, les respostes de l'apartat 2, i una captura de l'accés des de l'altre dispositiu de l'apartat 3.

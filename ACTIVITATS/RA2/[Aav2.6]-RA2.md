@@ -1,14 +1,32 @@
 # Activitat 2.6 — Serveis d'accés al sistema ERP-CRM
 
-## Objectiu
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Conèixer i configurar diferents serveis d'accés a un sistema ERP-CRM: accés per xarxa local, usuaris de portal, i entendre què cal per exposar-lo de forma segura a internet.
+RA2: Implanta sistemes ERP-CRM interpretant la documentació tècnica i identificant les diferents opcions i mòduls.
 
-## Avaluació
+## RECURSOS
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+ - Teoria RA2
 
-## Enunciat
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Treballar en el mateix repositori de la **RA1**.
+   - Crear una branca (al terminal) de nom **ra2** i ubicar-se a la branca (**git checkout ra2**)
+   - Al acabar l'activitat, fusionar la branca **ra2** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Entregar l'activitat a la data indicada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
 
 ### 1. Accés per xarxa local
 
@@ -28,7 +46,3 @@ Sense necessitat de fer-ho realment, expliqueu per escrit:
 1. Per què **no** és recomanable exposar directament el port 8069 d'Odoo a internet tal com està configurat per defecte.
 2. Quins elements caldria afegir (proxy invers, certificat SSL/TLS...) per exposar-lo de manera segura amb HTTPS.
 3. Quina alternativa hi hauria si no es vol exposar el servidor directament a internet (pista: vegeu la teoria del RA2, apartat de serveis d'accés).
-
-## Com entregar-ho
-
-Captures dels apartats 1 i 2, i les respostes escrites de l'apartat 3.
