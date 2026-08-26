@@ -54,6 +54,3 @@ Plantilla:
 * **Causa detectada:**
 * **Solució aplicada (o proposada):**
 
-## Com entregar-ho
-
-Un document amb l'informe d'operacions i la fitxa d'incidència omplerts.

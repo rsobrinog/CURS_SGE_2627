@@ -61,6 +61,3 @@ Ompliu aquesta taula amb els 5 punts anteriors:
 
 Si algun requisit **no** es compleix, indiqueu quina acció caldria fer per solucionar-ho (sense necessitat d'arribar a instal·lar-ho encara).
 
-## Com entregar-ho
-
-Captura de pantalla de cada comanda executada i la checklist omplerta.

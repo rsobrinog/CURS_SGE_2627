@@ -45,7 +45,3 @@ RA1: Identifica sistemes de planificació de recursos empresarials i de gestió 
 2. Si **TechNova S.L.** (vegeu activitat 1) decidís instal·lar un ERP-CRM **on-premise** als seus propis servidors, tenint en compte que l'equip de Desenvolupament ja té coneixements de Linux, quina combinació de **sistema + sistema operatiu + SGBD** recomanaríeu? Justifiqueu-ho.
 
 3. Expliqueu, en 4-5 línies, què podria passar (a nivell tècnic i de suport) si s'intenta instal·lar un ERP-CRM amb un SGBD que **no** és oficialment compatible segons el fabricant.
-
-## Com entregar-ho
-
-La taula omplerta i les respostes als apartats 2 i 3.

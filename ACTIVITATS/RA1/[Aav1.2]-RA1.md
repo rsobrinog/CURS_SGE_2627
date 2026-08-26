@@ -49,7 +49,3 @@ RA1: Identifica sistemes de planificació de recursos empresarials i de gestió 
    * La mida de l'empresa (45 empleats).
    * El pressupost disponible (una PIME, no un gran compte).
    * Les necessitats concretes dels departaments (Vendes, Desenvolupament, RRHH, Administració, Màrqueting).
-
-## Com entregar-ho
-
-Un document amb les 4 fitxes, la taula comparativa i la recomanació justificada (aprox. 1 pàgina).
