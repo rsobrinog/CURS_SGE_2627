@@ -1,5 +1,31 @@
 # Activitat 3.1
 
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
+
+RA3: Realitza operacions de gestió, consulta i anàlisi de la informació seguint les especificacions de disseny i utilitzant les eines proporcionades pels sistemes ERP-CRM.
+
+## RECURSOS
+
+ - Teoria RA3
+
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Treballar en el mateix repositori de la **RA1**.
+   - Crear una branca (al terminal) de nom **ra3** i ubicar-se a la branca (**git checkout ra3**).
+   - Al acabar l'activitat, fusionar la branca **ra3** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+ - Activitat avaluable amb nota de 0 a 100.
+ - Entregar l'activitat a la data indicada.
+ - Treballar a la branca **ra3**.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
+
 L’empresa Ray Ban decideix produir les seves ulleres de sol a Espanya.
 
 Necessita un magatzem a Madrid i un a Barcelona. Encara no ha decidit els empleats que tindrà, només volen de moment tota la infraestructura conectada del seu ERP.

@@ -1,10 +1,33 @@
 # Activitat 3.5 — Informes i llistats de l'aplicació
 
-## Avaluació
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+RA3: Realitza operacions de gestió, consulta i anàlisi de la informació seguint les especificacions de disseny i utilitzant les eines proporcionades pels sistemes ERP-CRM.
 
-## Enunciat
+## RECURSOS
+
+ - Teoria RA3
+
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Treballar en el mateix repositori de la **RA1**.
+   - Crear una branca (al terminal) de nom **ra3** i ubicar-se a la branca (**git checkout ra3**).
+   - Al acabar l'activitat, fusionar la branca **ra3** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+
+ - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Entregar l'activitat a la data indicada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
 
 Continuem amb el supòsit de **Ray Ban**.
 
@@ -25,7 +48,3 @@ Des de la vista de productes, filtreu els components amb estoc per sota del mín
 ### 4. Reflexió
 
 Per a cadascun dels tres informes/llistats anteriors (moviments d'estoc, albarà+factura, exportació d'estoc baix), expliqueu en una frase **quina informació aporta a la gestió del negoci** i **qui el faria servir** (magatzem, comercial, administració...).
-
-## Com entregar-ho
-
-Les captures/fitxers dels tres informes i les respostes de l'apartat 4.
