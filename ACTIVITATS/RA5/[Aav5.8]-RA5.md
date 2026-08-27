@@ -1,10 +1,33 @@
 # Activitat 5.8
 
-## Avaluació
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+RA5:  Desenvolupa components per a un sistema ERP-CRM analitzant i utilitzant el llenguatge de programació incorporat.
 
-# Enunciat
+## RECURSOS
+
+ - Teoria RA5
+
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Treballar en el mateix repositori de la **RA1**.
+   - Crear una branca (al terminal) de nom **ra5** i ubicar-se a la branca (**git checkout ra5**).
+   - Al acabar l'activitat, fusionar la branca **ra5** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+- Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Entregar l'activitat a la data indicada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT 
+
 
 Cybertech ha detectat que un company ha deixat un mètode amb errors al mòdul **AI Chip Manager**. Cal depurar-lo i afegir un tractament d'errors correcte.
 

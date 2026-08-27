@@ -1,0 +1,36 @@
+<odoo>
+    <record id="product_form_inherit_robot" model="ir.ui.view">
+        <field name="name">product.form.robot.inherit</field>
+        <field name="model">product.template</field>
+        <field name="inherit_id" ref="product.product_template_only_form_view"/>
+        <field name="arch" type="xml">
+
+            <xpath expr="//notebook" position="inside">
+
+                <page string="Manteniment">
+                    <field name="mantenimiento_ids">
+                        <list editable="bottom">
+                            <field name="date"/>
+                            <field name="description"/>
+                            <field name="tecnico_id"/>
+                            <field name="state"/>
+                        </list>
+                    </field>
+                </page>
+
+                <page string="Reciclatge">
+                    <field name="reciclaje_ids">
+                        <list editable="bottom">
+                            <field name="date"/>
+                            <field name="description"/>
+                            <field name="responsable_id"/>
+                            <field name="empresa_reciclaje_id"/>
+                        </list>
+                    </field>
+                </page>
+
+            </xpath>
+
+        </field>
+    </record>
+</odoo>

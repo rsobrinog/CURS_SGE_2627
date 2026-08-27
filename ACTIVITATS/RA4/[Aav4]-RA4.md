@@ -39,13 +39,13 @@ En aquesta pràctica treballem amb Odoo com si fóssim un usuari avançat, des d
 
 * A la tasca del moodle, entrega un document que contingui les captures que es demanen en aquesta pràctica.
 
-## 1\. Settings
+## 1. Settings
 
 Des de configuració general, activem el mode de desenvolupador, es troba al final de tots.
 
 `Settings > General Settings > Activate the developer mode.`
 
-## 2\. Product
+## 2. Product
 
 Si es vol afegir un camp en el formulari en concret, per saber quines són les vistes que s'han de modificar, el millor, és accedir a aquest formulari i consultar la vista i els camps.
 
@@ -71,7 +71,7 @@ Crear un nou camp (fer clic al botó **Create**).
 
 **Nous camps**
 
-Tots els nous camps haurien de començar amb "**x\_**" per identificar-los més fàcilment i diferenciar-los dels camps estàndards de l'aplicatiu.
+Tots els nous camps haurien de començar amb "**x_**" per identificar-los més fàcilment i diferenciar-los dels camps estàndards de l'aplicatiu.
 
 **Product Template**
 
@@ -119,8 +119,8 @@ Possibles atributs dels camps:
 * index: si cal crear index a la BD  
 * readonly  
 * require  
-* sanitize: per netejar o filtrar (white list) contingut html. (sanitize\_tags | sanitize\_attributes | sanitize\_style | strip\_style | strip\_class)  
-* company\_dependent
+* sanitize: per netejar o filtrar (white list) contingut html. (sanitize_tags | sanitize_attributes | sanitize_style | strip_style | strip_class)  
+* company_dependent
 
 Camps relacionals: ens permeten establir relacions entre les dades de diferents taules
 
@@ -172,7 +172,7 @@ Per comprovar els canvis, refrescar la pàgina de producte.
 
 Mostra el formulari de producte.
 
-## 5\. Technical
+## 5. Technical
 
 Alternativament, es pot accedir a aquestes vistes i formularis, des del mòdul de "**Settings**", l'opció "**Technical**".
 
@@ -212,7 +212,7 @@ Aquí podríem també afegir el camp a la vista corresponent com hem fet abans:
 * Inspeccionar l'XML per saber on situar el nostre nou camp, en aquest cas, el situem dins de la "**General Information**".  
 * Afegir el nou camp `<field name="x_material"/>`
 
-## 6\. Comprovem el camp via Postgres
+## 6. Comprovem el camp via Postgres
 
 Des de Postgres comproveu que s’ha creat el camp:
 
@@ -222,7 +222,7 @@ Des de Postgres comproveu que s’ha creat el camp:
 
 Llistat de PostgreSQL on aparegui el nou camp creat
 
-## 7\. Afegir camp al llistat de productes
+## 7. Afegir camp al llistat de productes
 
 També podem afegir aquest nou camp a la vista de la llista de productes, modificant directament el model associat:
 
@@ -249,7 +249,7 @@ Editem el fitxer XML afegint el nou camp, com hem fet en el pas 4\.
 Mostra els detalls del fitxer XML.  
 Mostra també una captura del formulari de la llista de producte.
 
-## 8\. Formulari producte
+## 8. Formulari producte
 
 Es demana afegir els següents camps al formulari de producte com es mostra a la imatge a sota:
 
@@ -269,7 +269,7 @@ Tots han de tenir un text d'ajuda.
 Mostra els detalls del fitxer XML.  
 Mostra també una captura del formulari de producte.
 
-## 9\. Formulari Clients
+## 9. Formulari Clients
 
 Es demana afegir els següents camps com es mostra a la imatge de sota:
 

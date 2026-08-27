@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_robot_mantenimiento,access_robot_mantenimiento,model_robot_mantenimiento,,1,1,1,1
+access_robot_reciclaje,access_robot_reciclaje,model_robot_reciclaje,,1,1,1,1
