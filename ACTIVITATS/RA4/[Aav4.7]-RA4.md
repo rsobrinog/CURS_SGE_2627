@@ -1,11 +1,33 @@
-# Pràctica 10 – Integració amb un altre sistema de gestió empresarial
+# Pràctica 4.7 – Integració amb un altre sistema de gestió empresarial
 
+## MÒDUL: Desenvolupament d'aplicacions multiplataforma
 
-## Avaluació
+RA4: Adapta sistemes ERP-CRM identificant els requeriments d'un supòsit empresarial i utilitzant les eines proporcionades per aquests.
 
-Aquesta activitat s'avalua amb APTE / NO APTE. 
+## RECURSOS
 
-## Enunciat
+ - Teoria RA4
+
+## CONDICIONS DE TREBALL
+
+ - Treball individual.
+ - Entregar al Moodle l'enllaç del github.
+ - Github:
+   - Treballar en el mateix repositori de la **RA1**.
+   - Crear una branca (al terminal) de nom **ra4** i ubicar-se a la branca (**git checkout ra4**).
+   - Al acabar l'activitat, fusionar la branca **ra4** a la branca **main** del github.    
+
+## AVALUACIÓ
+
+- Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
+ - Condicions per a **Apte**:
+   - 100% de l'activitat demanada.
+   - Entregar l'activitat a la data indicada.
+   - Treballar amb branca i l'ús de commits.
+ - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
+
+## ENUNCIAT
+
 ## 1. Accés extern via XML-RPC
 
 Amb Odoo en marxa (Docker), escriu un petit script en Python que es connecti a la instància via **XML-RPC** utilitzant la llibreria `xmlrpc.client`.
